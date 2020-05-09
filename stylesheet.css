@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'text-security-disc';
+    src: url('text-security-disc.eot');
+    src: url('text-security-disc.eot?#iefix') format('embedded-opentype'),
+        url('text-security-disc.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
